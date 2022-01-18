@@ -1,0 +1,8 @@
+.ball { height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-color: aqua;
+  border-radius: 40px;
+}
+
+#bolas-container { margin: 20px -1px;}
